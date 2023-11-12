@@ -3,7 +3,11 @@ nav:
     - Home: index.md
     - Titans:
         - All Titans: titans.md
+
         - Attack Titan: titans/attack.md
+        - Female Titan: titans/female.md
+        - Armored Titan: titans/armor.md
+        - Beast Titan: titans/beast.md
 
 theme:
     name: dracula

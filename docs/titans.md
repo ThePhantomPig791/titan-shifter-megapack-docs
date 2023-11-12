@@ -31,3 +31,5 @@ As a Titan Shifter, your smoke and electricity emissions are a great indicator t
 ## Titans
 * [Attack Titan](./titans/attack.md)
 * [Female Titan](./titans/female.md)
+* [Armored Titan](./titans/armor.md)
+* [Beast Titan](./titans/beast.md)
