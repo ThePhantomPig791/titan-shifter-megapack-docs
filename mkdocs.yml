@@ -2,12 +2,15 @@ site_name: Titan Shifter Megapack Documentation
 nav:
     - Home: index.md
     - Titans: titans.md
-        - attack.md
+        - Attack Titan : attack.md
 
 theme:
     name: dracula
     palette:
         accent: indigo
+        
+extra_css: [extra.css]
+
 markdown_extensions:
     - toc:
         separator: "_"
