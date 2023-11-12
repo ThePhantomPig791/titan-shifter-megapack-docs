@@ -2,7 +2,7 @@ site_name: Titan Shifter Megapack Documentation
 nav:
     - Home: index.md
     - Titans: titans.md
-        - Attack Titan: attack.md
+        - Attack Titan: titans/attack.md
 
 theme:
     name: dracula
