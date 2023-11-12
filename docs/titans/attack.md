@@ -6,7 +6,7 @@ date: 2023-11-12
 # Attack Titan
 **"As the fiercest out of the Nine Titans, the Attack Titan has an overwhelming urge to fight for what's right — and its inheritor won't stop fighting until the day they die."**
 
-<img src="../images/attack_titan_full.png" alt="The Attack Titan in a Cherry Blossom biome">
+![The Attack Titan in a Cherry Blossom biome](../images/attack_titan_full.png)
 
 ## Stats
 * __Max Shifts__: 3
