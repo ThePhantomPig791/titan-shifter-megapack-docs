@@ -1,13 +1,13 @@
 style:link {
   color: rgb(111, 2, 189);
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 style:visited {
   color: rgb(182, 108, 235);
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 style:hover {

@@ -7,6 +7,8 @@ nav:
 
 theme:
     name: dracula
+    icon: images/tsmpicon.png
+    favicon: images/tsmpicon.png
         
 extra_css: [extra.css]
 
