@@ -6,6 +6,8 @@ nav:
 
 theme:
     name: dracula
+    palette:
+        accent: indigo
 markdown_extensions:
     - toc:
         separator: "_"
