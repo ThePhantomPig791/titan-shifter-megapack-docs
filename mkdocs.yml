@@ -1,8 +1,8 @@
 site_name: Titan Shifter Megapack Documentation
 nav:
     - Home: index.md
-    - Titans: titans.md
     - Titans:
+        - Titans: titans.md
         - Attack Titan: titans/attack.md
 
 theme:
