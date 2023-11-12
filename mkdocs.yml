@@ -1,0 +1,12 @@
+site_name: Titan Shifter Megapack Documentation
+nav:
+    - Home: index.md
+    - Titans: titans.md
+        - attack.md
+
+theme:
+    name: dracula
+markdown_extensions:
+    - toc:
+        separator: "_"
+    - admonition
