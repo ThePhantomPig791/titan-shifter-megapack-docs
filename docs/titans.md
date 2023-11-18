@@ -12,6 +12,7 @@ There are a total of 9 titans in this pack, each with unique abilities, and some
 * [Armored Titan](./titans/armor.md)
 * [Beast Titan](./titans/beast.md)
 * [Warhammer Titan](./titans/warhammer.md)
+* [Jaw Titan](./titans/jaw.md)
 
 
 ## Universal Abilities

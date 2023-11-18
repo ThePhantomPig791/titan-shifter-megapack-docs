@@ -8,6 +8,8 @@ nav:
         - Female Titan: titans/female.md
         - Armored Titan: titans/armor.md
         - Beast Titan: titans/beast.md
+        - Warhammer Titan: titans/warhammer.md
+        - Jaw Titan: titans/jaw.md
 
 theme:
     name: dracula
