@@ -4,7 +4,7 @@ date: 2023-11-17
 ---
 
 # Colossal Titan
-**""**
+**"A literal god of destruction, capable of comitting mass murder and detonating an extreme energy blast with a thought, the Colossal Titan is, put simply, a ticking time bomb — don't get on the inheritor's bad side."**
 
 ![The Colossal Titan near a Cherry Blossom biome](../images/colossal_titan_full.png)
 ![The Colossal Titan emitting steam near a Cherry Blossom biome](../images/colossal_titan_steam_full.png)

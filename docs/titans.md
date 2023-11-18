@@ -15,6 +15,7 @@ There are a total of 9 titans in this pack, each with unique abilities, and some
 * [Jaw Titan](./titans/jaw.md)
 * [Cart Titan](./titans/cart.md)
 * [Colossal Titan](./titans/colossal.md)
+* [Founding Titan](./titans/founding.md)
 
 
 ## Universal Abilities
@@ -34,6 +35,6 @@ After untransforming, all Titan Shifters will gain marks on their face, just bel
 * ### Force Ejection
 In titan form, being at or below 3 hunger bars will force eject you, making you sustain minor drawbacks of overuse. Additionally, dying (only if the damage taken is or is less than 8 hearts) will eject you out of your titan body, inflicting negative effects and lowering your energy.
 * ### Stats
-In the description of each titan, you can find details on their specific stats (more details in-game).
+In the description of each titan, you can find details on their specific stats (specifics in-game).
 * ### Smoke Indication
 As a Titan Shifter, your smoke and electricity emissions are a great indicator to the status of your body's health, both human and titan forms (more details in-game).

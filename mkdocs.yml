@@ -12,6 +12,7 @@ nav:
         - Jaw Titan: titans/jaw.md
         - Cart Titan: titans/cart.md
         - Colossal Titan: titans/colossal.md
+        - Founding Titan: titans/founding.md
 
 theme:
     name: dracula
