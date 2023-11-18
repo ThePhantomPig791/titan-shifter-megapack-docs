@@ -4,7 +4,7 @@ date: 2023-11-17
 ---
 
 # Royal Blood
-Royal Blood is a liquid, stored in a bottle, that gives some Shifters (namely the [Beast Titan](../titans/beast.md) and [Founding Titan](../titans/founding.md)) extra abilities.
+Royal Blood is a liquid, stored in a bottle, that gives some Shifters (namely the [Beast Titan](../titans/beast.md) and [Founding Titan](../titans/founding.md)) extra abilities. In the Beast, Royal Blood lasts for two and a half minutes, but in the Founding, it lasts for double that.
 
 ### Obtaining
 To get Royal Blood, you need to press an [Injection](./injections.md) between two anvils. This will destroy the spinal fluid inside but have a 1% chance to spawn Royal Blood. This also has a 10% chance to damage the anvils used.
