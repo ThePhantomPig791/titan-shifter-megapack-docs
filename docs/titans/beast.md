@@ -7,6 +7,7 @@ date: 2023-11-12
 **"As the best thrower out of the Nine Titans, the Beast Titan can raze any particular area in mere seconds just by chucking a few rocks."**
 
 ![The Beast Titan in a Cherry Blossom biome](../images/beast_titan_full.png)
+![The Beast Titan with Royal Blood active in a Cherry Blossom biome](../images/beast_titan_rb_full.png)
 
 ## Stats
 * __Max Shifts__: 4

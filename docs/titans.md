@@ -7,6 +7,13 @@ date: 2023-11-12
 
 There are a total of 9 titans in this pack, each with unique abilities, and some with variations influencing its skin and stats.
 
+* [Attack Titan](./titans/attack.md)
+* [Female Titan](./titans/female.md)
+* [Armored Titan](./titans/armor.md)
+* [Beast Titan](./titans/beast.md)
+* [Warhammer Titan](./titans/warhammer.md)
+
+
 ## Universal Abilities
 ### **These abilities are shared by every Titan Shifter.**
 * ### Titan Shifting
@@ -27,9 +34,3 @@ In titan form, being at or below 3 hunger bars will force eject you, making you 
 In the description of each titan, you can find details on their specific stats (more details in-game).
 * ### Smoke Indication
 As a Titan Shifter, your smoke and electricity emissions are a great indicator to the status of your body's health, both human and titan forms (more details in-game).
-
-## Titans
-* [Attack Titan](./titans/attack.md)
-* [Female Titan](./titans/female.md)
-* [Armored Titan](./titans/armor.md)
-* [Beast Titan](./titans/beast.md)
