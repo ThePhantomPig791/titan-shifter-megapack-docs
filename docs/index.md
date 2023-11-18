@@ -9,5 +9,6 @@ This datapack is for Fabric, and it requires [Origins](https://modrinth.com/mod/
 
 If you have questions/comments/concerns/suggestions/anything else, feel free to DM me on discord at `phantompig`!
 
+### [Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### [Skin credits here!](https://github.com/ThePhantomPig791/titan-shifter-megapack/blob/master/credits.txt)
