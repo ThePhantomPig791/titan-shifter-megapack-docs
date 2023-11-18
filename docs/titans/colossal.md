@@ -22,9 +22,10 @@ date: 2023-11-17
 
 ## Unique Abilities
 * ### "Because this world..."
-__"...is just...that cruel."__ | You can choose to let out a massive amount of energy upon transforming, creating a blast comparable to that of a nuclear bomb.
+__"...is just...that cruel."__
+You can choose to let out a massive amount of energy upon transforming, creating a blast comparable to that of a nuclear bomb.
 * ### "You fought well..."
-"...right up to the end."
+__"...right up to the end."__
 You can rapidly emit steam from your titan body to ignite and fling away any entities nearby.
 * ### Dissipate
 You can evaporate your entire titan body at once to make it disappear, the only trace left behind being a few large puffs of smoke.
