@@ -26,4 +26,4 @@ date: 2023-11-17
 * ### Stamina Drawbacks
 You heal twice as slow as other shifters because you spend that energy to stay in titan form for longer and to replenish your titan faster when in human form.
 * ### Mounts
-There are three [mounts](../misc/mounts.md) you can use in titan form: the saddle mount, which lets other players ride on your back, the barrel mount, which gives you two personal barrels worth of storage on your back, and the rifle mount, which attaches a heavy anti-titan rifle on you. The rifle has a 1/4 chance to blow itself up on use, which probably won't kill you, but it will completely destroy the mount.
+There are three [mounts](../misc/cart_mounts.md) you can use in titan form: the saddle mount, which lets other players ride on your back, the barrel mount, which gives you two personal barrels worth of storage on your back, and the rifle mount, which attaches a heavy anti-titan rifle on you. The rifle has a 1/4 chance to blow itself up on use, which probably won't kill you, but it will completely destroy the mount.

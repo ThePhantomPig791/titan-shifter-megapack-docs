@@ -13,6 +13,11 @@ nav:
         - Cart Titan: titans/cart.md
         - Colossal Titan: titans/colossal.md
         - Founding Titan: titans/founding.md
+    - Misc:
+        - Pure Titans: misc/pure_titans.md
+        - Injections: misc/injections.md
+        - Royal Blood: misc/royal_blood.md
+        - Cart Mounts: misc/cart_mounts.md
 
 theme:
     name: dracula

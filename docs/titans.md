@@ -5,7 +5,7 @@ date: 2023-11-12
 
 # Titans
 
-There are a total of 9 titans in this pack, each with unique abilities, and some with variations influencing its skin and stats.
+There are a total of 9 titans in this pack, each with unique abilities and appearances, and some with variations influencing its skin and stats.
 
 * [Attack Titan](./titans/attack.md)
 * [Female Titan](./titans/female.md)
@@ -25,7 +25,7 @@ All Titan Shifters possess the power to turn into a titan (duh) which varies in 
 * ### Self-Stab
 All Shifters need to sustain at least a minor injury in order to shift, so they are all capable of cutting themselves with a sword when they are holding one in their main hand.
 * ### Pure Immunity
-As a Titan Shifter, you are unable to be turned into a [Pure Titan](./titans/pure.md).
+As a Titan Shifter, you are unable to be turned into a [Pure Titan](./misc/pure_titans.md).
 * ### Insufficient Nutrients
 In titan form, you won't gain much value from eating measly human food. Instead, consuming (killing) mobs is a much better way to eat.
 * ### Skeletal Remains
