@@ -10,6 +10,7 @@ nav:
         - Beast Titan: titans/beast.md
         - Warhammer Titan: titans/warhammer.md
         - Jaw Titan: titans/jaw.md
+        - Cart Titan: titans/cart.md
 
 theme:
     name: dracula
