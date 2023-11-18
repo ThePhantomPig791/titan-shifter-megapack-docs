@@ -22,8 +22,10 @@ date: 2023-11-17
 
 ## Unique Abilities
 * ### "Because this world..."
-__"...is just...__ \n
-__...that cruel."__ \n
+__"...is just...__
+\
+__...that cruel."__
+\
 You can choose to let out a massive amount of energy upon transforming, creating a blast comparable to that of a nuclear bomb.
 * ### "You fought well..."
 "...right up to the end."
