@@ -1,6 +1,7 @@
 site_name: Titan Shifter Megapack Documentation
 nav:
     - Home: index.md
+    - FAQ: misc/faq.md
     - Titans:
         - All Titans: titans.md
 
