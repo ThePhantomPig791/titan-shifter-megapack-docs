@@ -28,4 +28,4 @@ Instead of force ejecting upon low stamina (hunger) like the other shifters, you
 * ### Titan Facade
 Your titan form barely shows signs of weariness as you use it more and more, though it can still get slightly weaker and slower with each shift.
 * ### Ymir's Power
-While [Royal Blood](../misc/royal_blood.md) is active, you can transform any entity you see into a [Pure Titan](./misc/pure_titans.md).
+While [Royal Blood](../misc/royal_blood.md) is active, you can transform any entity you see into a [Pure Titan](../misc/pure_titans.md).
