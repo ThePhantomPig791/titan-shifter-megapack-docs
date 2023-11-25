@@ -31,3 +31,9 @@ You can rapidly emit steam from your titan body to ignite and fling away any ent
 You can evaporate your entire titan body at once to make it disappear, the only trace left behind being a few large puffs of smoke.
 * ### Colossal Punch
 In titan form, your punch is so huge it will create an explosion on impact.
+
+![A normal village...](../images/colossal_nuke_pre.png)
+![...nuked!](../images/colossal_nuke_post.png)
+![A before and after of the Colossal's rampage](../images/colossal_nuke_comparison.png)
+![The Colossal parting a river with its immense steam](../images/colossal_steam_part.png)
+*The Colossal parting a river with its immense steam*
