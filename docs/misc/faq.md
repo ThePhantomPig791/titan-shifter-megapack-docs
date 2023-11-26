@@ -17,3 +17,6 @@ Unlikely, as it would be rather difficult to port Appli (the pack's library mod)
 
 ### "How can I change a titan's skin?"
 If you want to, just unzip the pack, open the shifting power of your choice, and replace the image link (search for "git" in the power since the assets are hosted on github).
+
+### "How do I give myself permanent [Royal Blood](./royal_blood.md)?
+You can set up a repeating command block in a spawn/forceloaded chunk that runs the command `/resource set <username> phantom:shifter/<titan>_shift_royal_blood 0` (then turn off command feedback with `/gamerule commandBlockOutput false` so your chat isn't flooded).
