@@ -20,3 +20,6 @@ If you want to, just unzip the pack, open the shifting power of your choice, and
 
 ### "How do I give myself permanent [Royal Blood](./royal_blood.md)?
 You can set up a repeating command block in a spawn/forceloaded chunk that runs the command `/resource set <username> phantom:shifter/<titan>_shift_royal_blood 0` (then turn off command feedback with `/gamerule commandBlockOutput false` so your chat isn't flooded).
+
+### "Help! I can't use the warhammer's warhammer to actually attack anything with better combat installed!"
+Use an older version of better combat, a recent change broke Pehkui combat (the mod that makes your reach longer).
