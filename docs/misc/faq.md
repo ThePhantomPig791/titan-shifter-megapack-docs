@@ -23,3 +23,6 @@ You can set up a repeating command block in a spawn/forceloaded chunk that runs 
 
 ### "Help! I can't use the warhammer's warhammer to actually attack anything with better combat installed!"
 Use an older version of better combat, a recent change broke Pehkui combat (the mod that makes your reach longer).
+
+### "What's the key to scream as the beast / transform pures as the founding / etc?"
+It's the "Highlight Players (spectator)" key under the "Miscellaneous" category in controls. It's unbound by default.
