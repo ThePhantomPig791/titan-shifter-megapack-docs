@@ -39,7 +39,9 @@ In Titan form, you can grab other entities. If the entity is too big, like the E
 
 _In-game badge:_
 `Grab entities by right clicking them. You can crush/eat them with the load toolbar activator key, drop them with the save toolbar key, and throw them with sneak + save toolbar.`
+
 * ### Stats
 In the description of each titan, you can find details on their specific stats (specifics in-game).
+
 * ### Smoke Indication
 As a Titan Shifter, your smoke and electricity emissions are a great indicator to the status of your body's health, both human and titan forms (more details in-game).
