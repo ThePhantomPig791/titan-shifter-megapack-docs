@@ -9,6 +9,8 @@ This datapack is for Fabric, and it requires [Origins](https://modrinth.com/mod/
 
 If you have questions/comments/concerns/suggestions/anything else, feel free to DM me on discord at `phantompig`!
 
+<iframe width="1273" height="716" src="https://www.youtube.com/embed/MvMagOuVhLg" title="Titan Shifter Megapack - Trailer" frameborder="1080" allow="clipboard-write; web-share" allowfullscreen></iframe>
+
 ### [Download](https://modrinth.com/datapack/tsmp)
 
 ### [Skin credits here!](https://github.com/ThePhantomPig791/titan-shifter-megapack/blob/master/credits.txt)
