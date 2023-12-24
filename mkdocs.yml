@@ -2,6 +2,7 @@ site_name: Titan Shifter Megapack Documentation
 nav:
     - Home: index.md
     - FAQ: misc/faq.md
+    - Configuration: misc/config.md
     - Titans:
         - All Titans: titans.md
 
@@ -16,6 +17,7 @@ nav:
         - Founding Titan: titans/founding.md
     - Misc:
         - Pure Titans: misc/pure_titans.md
+        - Titan Stealing: misc/titan_stealing.md
         - Injections: misc/injections.md
         - Royal Blood: misc/royal_blood.md
         - Cart Mounts: misc/cart_mounts.md

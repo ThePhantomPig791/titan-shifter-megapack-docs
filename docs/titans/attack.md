@@ -17,13 +17,13 @@ date: 2023-11-12
 * __Defense__: 1
 * __Durability__: 12
 * __Minutes between shifts__: 0.25, 3, 5
-* __Average minutes__ __to__ __regain__ __a shift__: 7
+* __Minutes__ __to__ __regain__ __a shift__: 2.5
 
 ## Unique Abilities
 * ### Crystal Harden
 In titan form, you can perform a special type of untransformation that hardens your old titan body into a permanent, dense, skeleton-filled crystal.
 * ### Berserk Rage
-If you die in titan form while near a transformed Female Titan, you'll go berserk, creating a huge, fiery explosion in the process. In berserk mode, you are constantly on fire, immune to fire damage, smaller, have higher speed and strength, but lower health. You cannot untransform in berserk mode, but after 50 seconds, you'll be ejected, gaining debuffs, lowering your energy, and leaving behind a charred skeleton.
+If you die in titan form while near a transformed Female Titan ([configurable](../misc/config.md)), you'll go berserk, creating a huge, fiery explosion in the process. In berserk mode, you are constantly on fire, immune to fire damage, smaller, have higher speed and strength, but lower health. You cannot untransform in berserk mode, but after 50 seconds, you'll be ejected, gaining debuffs, lowering your energy, and leaving behind a charred skeleton.
 * ### Incomplete Transformation
 Your third shift is a weak, immobile, half-shifted version of your titan body, with minimal health, strength, and size.
 

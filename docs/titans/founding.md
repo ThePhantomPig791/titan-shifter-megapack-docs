@@ -18,7 +18,7 @@ date: 2023-11-17
 * __Defense__: 1.2, 1.1, 1, 1, 0.9
 * __Durability__: 20
 * __Minutes between shifts__: 0.5, 3, 4, 5
-* __Average minutes__ __to__ __regain__ __a shift__: 7
+* __Minutes__ __to__ __regain__ __a shift__: 3.5
 
 ## Unique Abilities
 * ### Coordinate Convergence

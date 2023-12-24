@@ -18,7 +18,7 @@ date: 2023-11-12
 * __Defense__: 1
 * __Durability__: 21
 * __Minutes between shifts__: 0.25, 2
-* __Average minutes__ __to__ __regain__ __a shift__: 5
+* __Minutes__ __to__ __regain__ __a shift__: 2
 
 ## Unique Abilities
 * ### Indestructable Crystal

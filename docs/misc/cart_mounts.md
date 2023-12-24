@@ -22,7 +22,7 @@ The barrel mount gives the Cart Titan two barrels worth of extra storage, access
 ![The Cart Titan with a rifle mount in a Cherry Blossom biome](../images/cart_titan_rifle_full.png)
 ![The saddle mount crafting recipe, consisting of three TNT, four iron blocks, one gunpowder, and one iron ingot](../images/recipe/rifle_mount.png)
 
-The rifle mount attaches a heavy anti-titan rifle on the Cart's back. The rifle has a 1/4 chance to blow itself up on use, which probably won't kill the Cart, but it will completely destroy the mount.
+The rifle mount attaches a heavy anti-titan rifle on the Cart's back. The rifle has a 1/4 chance to blow itself up on use ([configurable](./config.md)), which probably won't kill the Cart, but it will completely destroy the mount.
 
 ### Commands
 The cart mounts can be given with the usual /give command; i.e. `/give @s titan_shifter_megapack:titan_saddle_mount`.

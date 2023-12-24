@@ -20,7 +20,7 @@ date: 2023-11-17
 * __Defense__: 1
 * __Durability__: 500%
 * __Seconds between shifts__: 3 (on normal ejection terms)
-* __Average minutes__ __to__ __regain__ __a shift__: 1
+* __Minutes__ __to__ __regain__ __a shift__: 1
 
 ## Unique Abilities
 * ### Stamina Drawbacks

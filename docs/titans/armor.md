@@ -14,14 +14,14 @@ date: 2023-11-12
 * __Speed__: 1.5, 2
 * __Strength__: 12, 8
 * __Health__: 2, 1.7
-* __Defense__: 5, 3
+* __Defense__: 3.5 (2 if shedded), 1.5
 * __Durability__: 18
 * __Minutes between shifts__: 1, 3
-* __Average minutes__ __to__ __regain__ __a shift__: 7.5
+* __Minutes__ __to__ __regain__ __a shift__: 4
 
 ## Unique Abilities
 * ### Armor Shed
-In titan form, you can shed the armor around your limbs' joints to increase your movement speed, but in turn lowering your defense and damage.
+In titan form, you can shed the armor around your limbs' joints to increase your movement speed, but in turn lowering your defense and damage. Your second shift is shedded by default.
 * ### Charge
 After sheding your armor in titan form, you can charge forward, sprinting at whatever is in front of you and smashing it to pieces.
 * ### Half-Shifted Hands

@@ -18,12 +18,12 @@ date: 2023-11-17
 * __Defense__: 15
 * __Durability__: 3
 * __Minutes between shifts__: 5
-* __Average minutes__ __to__ __regain__ __a shift__: 5
+* __Minutes__ __to__ __regain__ __a shift__: 5
 
 ## Unique Abilities
 * ### "Because this world..."
 __"...is just...that cruel."__
-You can choose to let out a massive amount of energy upon transforming, creating a blast comparable to that of a nuclear bomb.
+You can choose to let out a massive amount of energy upon transforming, creating a blast comparable to that of a nuclear bomb ([configurable - enable/disable](../misc/config.md)).
 * ### "You fought well..."
 __"...right up to the end."__
 You can rapidly emit steam from your titan body to ignite and fling away any entities nearby.
@@ -37,3 +37,5 @@ In titan form, your punch is so huge it will create an explosion on impact.
 ![A before and after of the Colossal's rampage](../images/colossal_nuke_comparison.png)
 ![The Colossal parting a river with its immense steam](../images/colossal_steam_part.png)
 *The Colossal parting a river with its immense steam*
+![The Colossal's new proportions](../images/colossal_nuke_new_full.png)
+*The Colossal's new proportions, as of v1.2.0*

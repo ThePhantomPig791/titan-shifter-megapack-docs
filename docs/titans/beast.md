@@ -18,7 +18,7 @@ date: 2023-11-12
 * __Defense__: 1.3, 1.2, 1.1, 1
 * __Durability__: 20
 * __Minutes between shifts__: 0.5, 3, 5
-* __Average minutes__ __to__ __regain__ __a shift__: 7
+* __Minutes__ __to__ __regain__ __a shift__: 3
 
 ## Unique Abilities
 * ### Precise Pitcher

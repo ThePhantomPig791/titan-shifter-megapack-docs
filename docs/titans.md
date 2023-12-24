@@ -36,6 +36,9 @@ After untransforming, all Titan Shifters will gain marks on their face, just bel
 In titan form, being at or below 3 hunger bars will force eject you, making you sustain minor drawbacks of overuse. Additionally, dying (only if the damage taken is or is less than 8 hearts) will eject you out of your titan body, inflicting negative effects and lowering your energy.
 * ### Massive Hands
 In Titan form, you can grab other entities. If the entity is too big, like the Ender Dragon or another titan, the grabbing won't work. However, if you're the [Colossal Titan](./titans/colossal.md), you can grab other, smaller titans. Once you've grabbed something, you can crush, drop, or throw it. Be careful, though, because taking over a few hearts of damage will make you drop what you're holding.
+
+_In-game badge:_
+`Grab entities by right clicking them. You can crush/eat them with the load toolbar activator key, drop them with the save toolbar key, and throw them with sneak + save toolbar.`
 * ### Stats
 In the description of each titan, you can find details on their specific stats (specifics in-game).
 * ### Smoke Indication
