@@ -25,3 +25,5 @@ date: 2023-11-12
 In human form, you can create an indestructible crystal around you that blocks most damage. Upon exiting the crystal, you'll receive negative effects.
 * ### Titan Hardening
 In titan form, you can harden the flesh around your knees and fists to increase attack and defense, but slightly decrease mobility. This hardening lasts for 90 seconds, and can only be used once per shift.
+* ### Unique Combat
+In titan form, you can punch faster than other titans.

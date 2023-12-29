@@ -26,4 +26,4 @@ In titan form, you can pull a boulder out of the earth and hurl it with great ac
 * ### Rock Shotgun
 Your titan can grab a boulder from the ground, crush it up, and hurl those smaller, remaining rocks towards a target at rapid speeds.
 * ### Scream
-While [Royal Blood](../misc/royal_blood.md) is active, you can scream, causing any nearby human injected with your titan's spinal fluid to transform into a [Pure Titan](../misc/pure_titans.md).
+While [Royal Blood](../misc/royal_blood.md) is active, you can scream, granting you roughly a minute of positive effects and causing any nearby human injected with your titan's spinal fluid to transform into a [Pure Titan](../misc/pure_titans.md).

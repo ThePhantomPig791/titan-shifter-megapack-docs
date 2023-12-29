@@ -10,4 +10,6 @@ Titan Stealing is when a player eats (kills) a Titan Shifter to take their titan
 
 That same configuration option also lets you restrict titans to one per player.
 
+[Titan Stacking](./stacking.md) is also in the pack, which can only come into effect when Stealing is enabled.
+
 <iframe width="1273" height="716" src="https://www.youtube.com/embed/xrdra8QFP-c" title="A video demonstrating Titan Stealing and unique titans" frameborder="1080" allow="clipboard-write; web-share" allowfullscreen></iframe>
