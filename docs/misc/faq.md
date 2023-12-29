@@ -9,7 +9,7 @@ date: 2023-11-21
 ### "Is there a config?"
 Yes! See [Configuration](./config.md) for the in-game config. Here, you can modify a bunch of aspects of the pack, including enabling and disabling specific titans and abilities.
 
-### "When will <update/release/whatever> come out?"
+### "When will \<update/release/whatever> come out?"
 I usually don't like to give myself deadlines because they just add pressure and therefore stress — you're welcome to try to gauge when something will release based on teasers, but please just don't try to push your imagined estimated release date on me.
 
 ### "Can I steal someone else's titan?"
