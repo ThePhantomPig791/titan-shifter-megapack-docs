@@ -17,7 +17,7 @@ With operator commands, you can give yourself a stack by running `/tag @s add TS
 ## Stacks:
 
 * ### Attack - 1
-The Attack stack gives the shifter the ability to harden its knuckles, as described in the [Attack's power description](../titans/attack.md), but only for eight or six punches (instead of ten or eight) depending on the user's current shift. It also gives appropriately-sized titans a crystal unharden ability (i.e. all but the Colossal, Cart, and Jaw).
+The Attack stack gives the shifter the ability to harden its knuckles, as described in the [Attack's power description](../titans/attack.md), but only for eight or six punches (instead of ten or eight) depending on the user's current shift. It also gives appropriately-sized titans a crystal unshift ability (i.e. all but the Colossal, Cart, and Jaw) just like the Attack has.
 
 * ### Female - 2
 The Female stack gives a titan 1.5 extra motion points and 15 seconds of speed II upon transforming. It also lets the shifter attack faster in titan form, just like the [Female](../titans/female.md) can.
