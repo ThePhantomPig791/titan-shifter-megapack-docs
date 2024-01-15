@@ -17,7 +17,7 @@ With operator commands, you can give yourself a stack by running `/tag @s add TS
 ## Stacks:
 
 * ### Attack - 1
-The Attack stack gives the shifter the ability to harden its knuckles, as described in the [Attack's power description](../titans/attack.md), but only for eight or six punches (instead of ten or eight) depending on the user's current shift.
+The Attack stack gives the shifter the ability to harden its knuckles, as described in the [Attack's power description](../titans/attack.md), but only for eight or six punches (instead of ten or eight) depending on the user's current shift. It also gives appropriately-sized titans a crystal unharden ability (i.e. all but the Colossal, Cart, and Jaw).
 
 * ### Female - 2
 The Female stack gives a titan 1.5 extra motion points and 15 seconds of speed II upon transforming. It also lets the shifter attack faster in titan form, just like the [Female](../titans/female.md) can.
@@ -32,13 +32,13 @@ The Beast stack lets the user hurl a few scatter-shot rocks (when not sneaking) 
 The Warhammer stack grants a titan the [Warhammer's generation ability](../titans/warhammer.md) as is. It also grants a small Warhammer-esque overlay on the top front of a titan's chest and neck.
 
 * ### Jaw - 6
-The Jaw stack gives a titan 1 extra motion point, half an extra attack point, and the ability to climb walls when sneaking.
+The Jaw stack gives a titan 1 extra motion point, half an extra attack point, and the ability to climb walls when sneaking. It also grants a titan extra health upon killing / eating.
 
 * ### Cart - 7
 The Cart stack gives an shifter 1 extra motion point, 10 seconds of speed I upon transforming, a 50% chance to not gain a shift when shifting (unless it's the titan's first shift), and increased energy regeneration speeds.
 
 * ### Colossal - 8
-The Colossal stack makes a titan 6 blocks bigger and gives it a steam blast ability that, when used (not held, which is unlike the [Colossal's steam](../titans/colossal.md)), burns and launches away any visible entities within a 50 block radius.
+The Colossal stack makes a titan 6 blocks bigger and gives it a steam blast ability that, when used (not held, which is unlike the [Colossal's steam](../titans/colossal.md)), burns and launches away any visible entities within a 50 block radius. It also gives the titan 1 extra attack point, 1 extra defense point, and 1 extra knockback (on attacks) point.
 
 * ### Founding - 9
 The Founding stack gives a shifter the [Founding's mass pure transform ability](../titans/founding.md) as is, but only when the shifter has [Royal Blood](./royal_blood.md).
